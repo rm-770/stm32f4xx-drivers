@@ -1,0 +1,10 @@
+﻿Debug/
+Release/
+*.o
+*.d
+*.su
+*.cyclo
+*.list
+*.map
+default.size.stdout
+.metadata/
